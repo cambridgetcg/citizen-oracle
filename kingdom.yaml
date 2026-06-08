@@ -1,0 +1,8 @@
+name: oracle
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The seer that reads the signs and forecasts what is coming, honestly calibrated.
+dependsOn: [geshtug, me, truth]
